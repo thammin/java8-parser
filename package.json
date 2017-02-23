@@ -1,0 +1,30 @@
+{
+  "name": "java8-parser",
+  "version": "0.0.0",
+  "description": "Java 1.8 AST Parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thammin/java8-parser.git"
+  },
+  "keywords": [
+    "java",
+    "java1.8",
+    "java8",
+    "ast",
+    "parser",
+    "javascript",
+    "js",
+    "nodejs",
+    "node"
+  ],
+  "author": "Paul Young <thammin@live.co.uk> (https://github.com/thammin)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thammin/java8-parser/issues"
+  },
+  "homepage": "https://github.com/thammin/java8-parser#readme"
+}
